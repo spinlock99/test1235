@@ -1,9 +1,9 @@
 {
-  "short_name": "NAME",
-  "name": "NAME",
+  "short_name": "test1235",
+  "name": "test1235",
   "icons": [
     {
-      "src":"ICON",
+      "src":"https://process.filestackapi.com/resize=width:144/Ay2LFnHiRPmSvbmXrbqM",
       "sizes": "144x144",
       "type": "image/png"
     }
